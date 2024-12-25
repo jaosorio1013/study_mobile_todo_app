@@ -1,0 +1,35 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <SqlCodeStyleSettings version="7">
+      <option name="KEYWORD_CASE" value="2" />
+      <option name="TYPE_CASE" value="3" />
+      <option name="QUERY_EL_LINE" value="101" />
+      <option name="QUERY_IN_ONE_STRING" value="3" />
+      <option name="SUBQUERY_OPENING" value="3" />
+      <option name="SUBQUERY_CONTENT" value="4" />
+      <option name="SUBQUERY_CLOSING" value="3" />
+      <option name="SUBQUERY_PAR_SPACE_INSIDE" value="true" />
+      <option name="SELECT_EL_WRAP" value="3" />
+      <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+      <option name="SELECT_ALIGN_AS" value="false" />
+      <option name="SELECT_ASTERISK_REGULAR" value="true" />
+    </SqlCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="PHP">
+      <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+      <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
